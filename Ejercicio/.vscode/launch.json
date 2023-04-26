@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioII",
+            "request": "launch",
+            "mainClass": "EjercicioII",
+            "projectName": "Ejercicio_df29343f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioIII",
+            "request": "launch",
+            "mainClass": "EjercicioIII",
+            "projectName": "Ejercicio_df29343f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioVI",
+            "request": "launch",
+            "mainClass": "EjercicioVI",
+            "projectName": "Ejercicio_df29343f"
+        },
+        {
+            "type": "java",
+            "name": "multiplicacion",
+            "request": "launch",
+            "mainClass": "Operaciones.multiplicacion",
+            "projectName": "Ejercicio_df29343f"
+        },
+        {
+            "type": "java",
+            "name": "resta",
+            "request": "launch",
+            "mainClass": "Operaciones.resta",
+            "projectName": "Ejercicio_df29343f"
+        },
+        {
+            "type": "java",
+            "name": "suma",
+            "request": "launch",
+            "mainClass": "Operaciones.suma",
+            "projectName": "Ejercicio_df29343f"
+        }
+    ]
+}
