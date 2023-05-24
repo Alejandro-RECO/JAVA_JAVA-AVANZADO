@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RetoVIII",
+            "request": "launch",
+            "mainClass": "Retos.RetoVIII",
+            "projectName": "JAVA_JAVA-AVANZADO_1c244abc"
+        },
+        {
+            "type": "java",
+            "name": "RetoVII",
+            "request": "launch",
+            "mainClass": "Retos.RetoVII",
+            "projectName": "JAVA_JAVA-AVANZADO_1c244abc"
+        },
+        {
+            "type": "java",
+            "name": "RetoVI",
+            "request": "launch",
+            "mainClass": "Retos.RetoVI",
+            "projectName": "JAVA_JAVA-AVANZADO_1c244abc"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
