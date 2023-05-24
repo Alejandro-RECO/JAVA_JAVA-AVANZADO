@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EjercicioXII",
+            "request": "launch",
+            "mainClass": "EjercicioXII",
+            "projectName": "JAVA_JAVA-AVANZADO_1c244abc"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioXI",
+            "request": "launch",
+            "mainClass": "EjercicioXI",
+            "projectName": "JAVA_JAVA-AVANZADO_1c244abc"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioVV",
+            "request": "launch",
+            "mainClass": "EjercicioVV",
+            "projectName": "JAVA_JAVA-AVANZADO_1c244abc"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioVV",
+            "request": "launch",
+            "mainClass": "Operaciones.EjercicioVV",
+            "projectName": "JAVA_JAVA-AVANZADO_1c244abc"
+        },
+        {
+            "type": "java",
             "name": "RetoVIII",
             "request": "launch",
             "mainClass": "Retos.RetoVIII",
